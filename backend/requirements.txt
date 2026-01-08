@@ -1,8 +1,11 @@
-flask
-flask-cors
-flask-mysql-connector
-numpy
-pandas
-scikit-learn
+Flask
+Flask-Cors
+PyJWT
+Werkzeug
 joblib
+numpy
+scikit-learn
+matplotlib
+reportlab
 python-dotenv
+mysql-connector-python
